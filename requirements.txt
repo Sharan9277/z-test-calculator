@@ -1,5 +1,5 @@
 Flask==2.2.3
-Flask-CORS==3.1.1
+Flask-CORS
 numpy==1.24.2
 scipy==1.10.1
 matplotlib==3.7.1
